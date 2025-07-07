@@ -1,0 +1,14 @@
+# Emacs
+*~
+\#*\#
+
+# Python
+*.pyc
+venv
+
+# Env
+.env
+
+# Databases
+*.db
+*.sqlite3
